@@ -16,6 +16,8 @@
 * Greyhound
 * Bus
 
+--
+
 ## September, 2018
 * ***Places***
   * **Manhanttan, NYC** (St patrick's Church / Time Square / Central Park / Trump Tower / Washington Square / Chinatown / Trinity Church ／ Federal Hall / Brooklyn Bridge / Empire State)
@@ -32,7 +34,9 @@
   * Xi'an Famous Food, Chinatown / Empire State (西安名吃)
   * Hunan Cafe, Flushing (湘水山庄)
   * ***Shake Shack, Fulton Center***
-  
+
+--
+
 ## October, 2018
 * ***Places***
   * **Manhanttan, NYC** (Grand Central Terminal / Google Guest / The MET / United Nations Public Visit)
@@ -68,6 +72,8 @@
   * **Bleecker Street Pizza**
   * **Taiwan Pork Chop House** (**武昌好味道**)
   * Nightmare Burger (Buger King), Hallowen Day, NYC
+
+
   
  
   
