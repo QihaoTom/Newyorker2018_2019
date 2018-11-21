@@ -16,7 +16,7 @@
 * Greyhound
 * Bus
 
---
+---
 
 ## September, 2018
 * ***Places***
@@ -35,7 +35,7 @@
   * Hunan Cafe, Flushing (湘水山庄)
   * ***Shake Shack, Fulton Center***
 
---
+---
 
 ## October, 2018
 * ***Places***
