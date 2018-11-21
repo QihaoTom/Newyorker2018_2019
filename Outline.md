@@ -13,17 +13,17 @@
   * **Manhanttan, NYC** (St patrick's Church / Time Square / Central Park / Trump Tower / Washington Square / Chinatown / Trinity Church ／ Federal Hall / Brooklyn Bridge / Empire State)
   * Flushing, NYC
   * Long Beach, NY
-  * New Brunswick (Rutgers)
+  * ***New Brunswick (Rutgers)***
   * Liberty State Park / Ellis Island / Liberty Island
   * Newark Museum, NJ
   * Red Bank (catch crab)
 * ***Eating***
-  * Wah fung No.1 fast food, Chinatown (华丰快餐店)
-  * Jing fong, Chinatown (金丰大酒楼)
-  * 99 Ranch Market, Grove street (大华超级市场)
+  * ***Wah fung No.1 fast food, Chinatown (华丰快餐店)***
+  * ***Jing fong, Chinatown (金丰大酒楼)***
+  * ***99 Ranch Market, Grove street (大华超级市场)***
   * Xi'an Famous Food, Chinatown / Empire State (西安名吃)
   * Hunan Cafe, Flushing (湘水山庄)
-  * Shake Shack, Fulton Center
+  * ***Shake Shack, Fulton Center***
   
 ## October, 2018
 * ***Places***
@@ -34,7 +34,7 @@
   * Columbia University, School of International and Public Affairs
   * 
 * ***Eating***
-  * Tofu House, Edison
+  * ***Tofu House, Edison***
   * New Bo Restaurant, Chinatown (波记潮汕小食)
   *
   
