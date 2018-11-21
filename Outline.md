@@ -1,15 +1,14 @@
 ### *Food Menu*
 * **Tropicana** (Lemonade / Tangerine Lemonade)
-* Cabbage
-* Milk
-* Water
+* Cabbage / Broccoli
+* Milk / Water
 * Beef / Chicken / Pork 
 * Green Onion / Ginger
 * Vineger / Soy Sauce
-* Salt / Sugar 
+* Salt / Sugar / Olive Oli
 
-### Commute
-* Path Train
+### Commute NY/NJ
+* ***Path Train***
 * NYC Subway
 * Amtrack
 * Greyhound
@@ -40,7 +39,7 @@
   * Terhune gardens, NJ (Pumpkin Picking / Wagon Rides / Corn Maze / )
   * Columbia University, School of International and Public Affairs
   * **Day Trip | Open House, NYC**
-     * Little Red Lighthouse
+     * **Little Red Lighthouse**
      * Fort Washington Park
      * Brookly Army Terminal
      * NYC Ferry, Army Terminal --> Wall Street ($2.75 Per)
@@ -48,6 +47,7 @@
      * Noodle Village (粥面轩)
      * Jefferson Market Library
      * NYU Bobst Library
+   * **Day Trip | Minnewaska State Park Preserve**
      
 * ***Eating***
   * ***Tofu House, Edison***
