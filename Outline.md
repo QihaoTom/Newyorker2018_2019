@@ -36,11 +36,19 @@
 * ***Places***
   * **Manhanttan, NYC** (Grand Central Terminal / Google Guest / The MET / United Nations Public Visit)
   * SSN, Teaching Assistant (Federal Building)
-  * Princeton University, Woodrow Wilson School of Public & International Affairs
+  * Princeton University, Woodrow Wilson School of Public & International Affairsfile:///Applications/网易有道词典.app/Contents/Resources/result.html#
   * Terhune gardens, NJ (Pumpkin Picking / Wagon Rides / Corn Maze / )
   * Columbia University, School of International and Public Affairs
-  * **Open House, NYC**
+  * **Day Trip | Open House, NYC**
      * Little Red Lighthouse
+     * Fort Washington Park
+     * Brookly Army Terminal
+     * NYC Ferry, Army Terminal --> Wall Street ($2.75 Per)
+     * 21 Shanghai House (上海小馆)
+     * Noodle Village (粥面轩)
+     * Jefferson Market Library
+     * NYU Bobst Library
+     
 * ***Eating***
   * ***Tofu House, Edison***
   * New Bo Restaurant, Chinatown (波记潮汕小食)
