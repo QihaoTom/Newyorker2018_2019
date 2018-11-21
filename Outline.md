@@ -9,7 +9,7 @@
 * Salt / Sugar 
 
 ## September, 2018
-* Places
+* ***Places***
   * **Manhanttan, NYC** (St patrick's Church / Time Square / Central Park / Trump Tower / Washington Square / Chinatown / Trinity Church ／ Federal Hall / Brooklyn Bridge / Empire State)
   * Flushing, NYC
   * Long Beach, NY
@@ -17,7 +17,7 @@
   * Liberty State Park / Ellis Island / Liberty Island
   * Newark Museum, NJ
   * Red Bank (catch crab)
-* Eating
+* ***Eating***
   * Wah fung No.1 fast food, Chinatown (华丰快餐店)
   * Jing fong, Chinatown (金丰大酒楼)
   * 99 Ranch Market, Grove street (大华超级市场)
@@ -26,14 +26,14 @@
   * Shake Shack, Fulton Center
   
 ## October, 2018
-* Places
+* ***Places***
   * **Manhanttan, NYC** (Grand Central Terminal / Google Guest / The MET / )
   * SSN, Teaching Assistant (Federal Building)
   * Princeton University, Woodrow Wilson School of Public & International Affairs
   * Terhune gardens, NJ (Pumpkin Picking / Wagon Rides / Corn Maze / )
   * Columbia University, School of International and Public Affairs
   * 
-* Eating
+* ***Eating***
   * Tofu House, Edison
   * New Bo Restaurant, Chinatown (波记潮汕小食)
   *
