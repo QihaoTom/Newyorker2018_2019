@@ -37,7 +37,7 @@
 * ***Places***
   * **Manhanttan, NYC** (Grand Central Terminal / Google Guest / The MET / United Nations Public Visit)
   * SSN, Teaching Assistant (Federal Building)
-  * Princeton University, Woodrow Wilson School of Public & International Affairsfile:///Applications/网易有道词典.app/Contents/Resources/result.html#
+  * Princeton University, Woodrow Wilson School of Public & International Affairs
   * Terhune gardens, NJ (Pumpkin Picking / Wagon Rides / Corn Maze / )
   * Columbia University, School of International and Public Affairs
   * **Day Trip | Open House, NYC**
