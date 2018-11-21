@@ -80,7 +80,7 @@
    * **IKEA，Brooklyn, NYC**
    * **Queens Botantical Garden, Flushing**
    * [Kruerger Scott Mansion, Newark](https://www.nytimes.com/2000/09/25/nyregion/cost-hinders-effort-reclaim-castle-after-7-million-newark-wearies-restoring.html?pagewanted=all)
-   * 
+   * **Sunset Park / Jewish Town**
  
  * **Eating**
    * Nam Wah Tea Parlor (南华茶室)
@@ -93,6 +93,13 @@
    * Guanfu Sichuan (官府川菜) （$60）
    * Brick Lane Curry House (Phaal Challenge) ($24)
    * **Joe's Pizza**
+   * **Katz's Delicatessen** ($33)
+     * Pastrami
+     * Brooklyn Lager
+   * **Shaxian Snacks, Brooklyn 8 Ave** （沙县小吃）
+   * **Laoma** (老妈香锅) （$24）
+   
+   
 
 
   
