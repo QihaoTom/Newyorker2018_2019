@@ -36,14 +36,13 @@
   * ***Shake Shack, Fulton Center***
 
 ---
-
 ## October, 2018
 * ***Places***
   * **Manhanttan, NYC** (Grand Central Terminal / Google Guest / The MET / United Nations Public Visit)
-  * SSN, Teaching Assistant (Federal Building)
-  * Princeton University, Woodrow Wilson School of Public & International Affairs
+  * **SSN, Teaching Assistant (Federal Building)**
+  * **Princeton University, Woodrow Wilson School of Public & International Affairs**
   * Terhune gardens, NJ (Pumpkin Picking / Wagon Rides / Corn Maze / )
-  * Columbia University, School of International and Public Affairs
+  * **Columbia University, School of International and Public Affairs**
   * **Day Trip | Open House, NYC**
      * **Little Red Lighthouse**
      * Fort Washington Park
@@ -72,6 +71,28 @@
   * **Bleecker Street Pizza**
   * **Taiwan Pork Chop House** (**武昌好味道**)
   * Nightmare Burger (Buger King), Hallowen Day, NYC
+ 
+ ---
+ ## November, 2018
+ * **Places**
+   * Saint Patrick in Newark
+   * Stonsby Commons Meal in Rutgers ($10 per)
+   * **IKEA，Brooklyn, NYC**
+   * **Queens Botantical Garden, Flushing**
+   * [Kruerger Scott Mansion, Newark](https://www.nytimes.com/2000/09/25/nyregion/cost-hinders-effort-reclaim-castle-after-7-million-newark-wearies-restoring.html?pagewanted=all)
+   * 
+ 
+ * **Eating**
+   * Nam Wah Tea Parlor (南华茶室)
+   * IKEA's Hotdog ($1)
+   * **Joe's Shanghai** (鹿鸣春)
+   * Panda Express / Wendy's / KFC 
+   * Golden Unicorn (麒麟金阁) ($24)
+   * **Tapioca** ($4.25)
+   * ***McDonald's 809 6th Ave, NYC | My favorite Mc store in NYC***
+   * Guanfu Sichuan (官府川菜) （$60）
+   * Brick Lane Curry House (Phaal Challenge) ($24)
+   * **Joe's Pizza**
 
 
   
