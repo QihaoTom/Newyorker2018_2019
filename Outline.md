@@ -33,13 +33,14 @@
   * ***Shake Shack, Fulton Center***
   
 ## October, 2018
-### Places
+* ***Places***
   * **Manhanttan, NYC** (Grand Central Terminal / Google Guest / The MET / United Nations Public Visit)
   * SSN, Teaching Assistant (Federal Building)
   * Princeton University, Woodrow Wilson School of Public & International Affairs
   * Terhune gardens, NJ (Pumpkin Picking / Wagon Rides / Corn Maze / )
   * Columbia University, School of International and Public Affairs
   * **Open House, NYC**
+     * Little Red Lighthouse
 * ***Eating***
   * ***Tofu House, Edison***
   * New Bo Restaurant, Chinatown (波记潮汕小食)
