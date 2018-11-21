@@ -6,8 +6,8 @@
 * Green Onion / Ginger
 * Vineger / Soy Sauce
 * Salt / Sugar / Olive Oli
-* Eggs 
-* Tomato / Potato / Onion / 
+* Eggs / Salt Eggs / 
+* Tomato / Potato / Onion / Carrot / 
 
 ### Commute NY/NJ
 * ***Path Train***
@@ -59,12 +59,17 @@
      * Reading Terminal Market
      * Liberty Bell / Independce Hall
      * Sonny's Cheese Steak
-  
+   * **Pumpkin Flotilla in Central Park, NYC**
      
 * ***Eating***
   * ***Tofu House, Edison***
   * New Bo Restaurant, Chinatown (波记潮汕小食)
   * 88 Lanzhou Handmade Noodles (兰州拉面)
-  * 
+  * **Bleecker Street Pizza**
+  * **Taiwan Pork Chop House** (**武昌好味道**)
+  * Nightmare Burger (Buger King), Hallowen Day, NYC
+  
+ 
+  
   
   
