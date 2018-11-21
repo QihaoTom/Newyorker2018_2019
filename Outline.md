@@ -97,6 +97,7 @@
    * **Katz's Delicatessen** ($33)
      * Pastrami
      * Brooklyn Lager
+     <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Katz.jpeg' width = 500px>
    * **Shaxian Snacks, Brooklyn 8 Ave** （沙县小吃）
    * **Laoma** (老妈香锅) （$24）
    
