@@ -1,6 +1,6 @@
 ## September, 2018
 * Places
-  * Manhanttan (St patrick's Church / Time Square / Central Park / Trump Tower / Washington Square / Chinatown / Trinity Church ／ Federal Hall / Brooklyn Bridge / )
+  * **Manhanttan** (St patrick's Church / Time Square / Central Park / Trump Tower / Washington Square / Chinatown / Trinity Church ／ Federal Hall / Brooklyn Bridge / )
   * Long Beach
   * New Brunswick (Rutgers)
   * Liberty State Park / Ellis Island / Liberty Island
