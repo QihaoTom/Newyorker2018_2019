@@ -33,7 +33,7 @@
   * ***Shake Shack, Fulton Center***
   
 ## October, 2018
-### *Places*
+### Places
   * **Manhanttan, NYC** (Grand Central Terminal / Google Guest / The MET / United Nations Public Visit)
   * SSN, Teaching Assistant (Federal Building)
   * Princeton University, Woodrow Wilson School of Public & International Affairs
