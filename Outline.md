@@ -3,7 +3,10 @@
 * Cabbage
 * Milk
 * Water
-* 
+* Beef / Chicken / Pork 
+* Green Onion / Ginger
+* Vineger / Soy Sauce
+* Salt / Sugar 
 
 ## September, 2018
 * Places
@@ -20,13 +23,15 @@
   * 99 Ranch Market, Grove street (大华超级市场)
   * Xi'an Famous Food, Chinatown / Empire State (西安名吃)
   * Hunan Cafe, Flushing (湘水山庄)
+  * Shake Shack, Fulton Center
   
 ## October, 2018
 * Places
   * **Manhanttan, NYC** (Grand Central Terminal / Google Guest / The MET / )
   * SSN, Teaching Assistant (Federal Building)
-  * Princeton University
+  * Princeton University, Woodrow Wilson School of Public & International Affairs
   * Terhune gardens, NJ (Pumpkin Picking / Wagon Rides / Corn Maze / )
+  * Columbia University, School of International and Public Affairs
   * 
 * Eating
   * Tofu House, Edison
