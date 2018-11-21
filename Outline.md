@@ -80,6 +80,7 @@
    * **IKEA，Brooklyn, NYC**
    * **Queens Botantical Garden, Flushing**
    * [Kruerger Scott Mansion, Newark](https://www.nytimes.com/2000/09/25/nyregion/cost-hinders-effort-reclaim-castle-after-7-million-newark-wearies-restoring.html?pagewanted=all)
+   * Newport Mall
    * **Sunset Park / Jewish Town, Brooklyn**
  
  * **Eating**
