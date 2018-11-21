@@ -6,6 +6,8 @@
 * Green Onion / Ginger
 * Vineger / Soy Sauce
 * Salt / Sugar / Olive Oli
+* Eggs 
+* Tomato / Potato / Onion / 
 
 ### Commute NY/NJ
 * ***Path Train***
@@ -44,10 +46,20 @@
      * Brookly Army Terminal
      * NYC Ferry, Army Terminal --> Wall Street ($2.75 Per)
      * 21 Shanghai House (上海小馆)
-     * Noodle Village (粥面轩)
+     * **Noodle Village (粥面轩)**
      * Jefferson Market Library
      * NYU Bobst Library
-   * **Day Trip | Minnewaska State Park Preserve**
+  * **Day Trip | Minnewaska State Park Preserve**
+  * **Home Meal | When Harry Met Sally**
+  * **Weekend Trip | Philadelphia**
+     * University of Pennsylvania
+     * Federal Donuts | Great Coffee and Cookies
+     * Philly City Hall
+     * Joy Tsin Lau （醉仙楼），Chinatown in Philly
+     * Reading Terminal Market
+     * Liberty Bell / Independce Hall
+     * Sonny's Cheese Steak
+  
      
 * ***Eating***
   * ***Tofu House, Edison***
