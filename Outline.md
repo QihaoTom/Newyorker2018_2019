@@ -54,7 +54,8 @@
      * **Noodle Village (粥面轩)**
      * Jefferson Market Library
      * NYU Bobst Library
-     <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Ferry.jpeg' width = 500px>
+     <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Ferry.jpeg' width = 800px>
+     
   * **Day Trip | Minnewaska State Park Preserve**
   <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Minnewaska.jpeg' width = 500px>
   
@@ -100,6 +101,7 @@
    * ***McDonald's 809 6th Ave, NYC | My favorite Mc store in NYC***
    * Guanfu Sichuan (官府川菜) （$60）
      <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Sichuan%20Tofu.jpeg' width = 500px>
+     
    * Brick Lane Curry House (Phaal Challenge) ($24)
    * **Joe's Pizza**
    * **Katz's Delicatessen** ($33)
