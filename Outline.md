@@ -53,7 +53,7 @@
      * Jefferson Market Library
      * NYU Bobst Library
   * **Day Trip | Minnewaska State Park Preserve**
-  <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Minnewaska.jpeg' width = 800px>
+  <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Minnewaska.jpeg' width = 500px>
   
   * **Home Meal | When Harry Met Sally**
    <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Home%20Meal.jpeg' width = 800px>
