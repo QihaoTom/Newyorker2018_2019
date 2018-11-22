@@ -21,7 +21,7 @@
 ## September, 2018
 * ***Places***
   * **Manhanttan, NYC** (St patrick's Church / Time Square / Central Park / Trump Tower / Washington Square / Chinatown / Trinity Church ／ Federal Hall / Brooklyn Bridge / Empire State)
-   <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/WTC.jpeg' width = 800px>
+   <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/WTC.jpeg' width = 500px>
    
   * Flushing, NYC
   * Long Beach, NY
@@ -54,7 +54,7 @@
      * **Noodle Village (粥面轩)**
      * Jefferson Market Library
      * NYU Bobst Library
-     <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Ferry.jpeg' width = 800px>
+     <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Ferry.jpeg' width = 500px>
   * **Day Trip | Minnewaska State Park Preserve**
   <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Minnewaska.jpeg' width = 500px>
   
@@ -99,7 +99,7 @@
    * **Tapioca** ($4.25)
    * ***McDonald's 809 6th Ave, NYC | My favorite Mc store in NYC***
    * Guanfu Sichuan (官府川菜) （$60）
-     <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Sichuan%20Tofu.jpeg' width = 800px>
+     <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Sichuan%20Tofu.jpeg' width = 500px>
    * Brick Lane Curry House (Phaal Challenge) ($24)
    * **Joe's Pizza**
    * **Katz's Delicatessen** ($33)
@@ -107,7 +107,7 @@
      * Brooklyn Lager
      <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Katz.jpeg' width = 800px>
    * **Shaxian Snacks, Brooklyn 8 Ave** （沙县小吃）
-     <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Shaxian%20Snacks.jpeg' width = 800px>
+     <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Shaxian%20Snacks.jpeg' width = 500px>
    * **Laoma** (老妈香锅) （$24）
    
    
