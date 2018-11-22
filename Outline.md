@@ -54,6 +54,7 @@
      * NYU Bobst Library
   * **Day Trip | Minnewaska State Park Preserve**
   * **Home Meal | When Harry Met Sally**
+   <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Home%20Meal.jpeg' width = 800px>
   * **Weekend Trip | Philadelphia**
      * University of Pennsylvania
      * Federal Donuts | Great Coffee and Cookies
