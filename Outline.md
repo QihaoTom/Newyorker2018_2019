@@ -100,6 +100,7 @@
      * Brooklyn Lager
      <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Katz.jpeg' width = 800px>
    * **Shaxian Snacks, Brooklyn 8 Ave** （沙县小吃）
+     <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Shaxian%20Snacks.jpeg' width = 800px>
    * **Laoma** (老妈香锅) （$24）
    
    
