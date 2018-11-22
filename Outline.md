@@ -21,6 +21,8 @@
 ## September, 2018
 * ***Places***
   * **Manhanttan, NYC** (St patrick's Church / Time Square / Central Park / Trump Tower / Washington Square / Chinatown / Trinity Church ／ Federal Hall / Brooklyn Bridge / Empire State)
+   <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/WTC.jpeg' width = 800px>
+   
   * Flushing, NYC
   * Long Beach, NY
   * ***New Brunswick (Rutgers)***
