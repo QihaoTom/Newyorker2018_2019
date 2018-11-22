@@ -52,6 +52,7 @@
      * **Noodle Village (粥面轩)**
      * Jefferson Market Library
      * NYU Bobst Library
+     <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Ferry.jpeg' width = 800px>
   * **Day Trip | Minnewaska State Park Preserve**
   <img src = 'https://github.com/QihaoTom/Newyorker2018_2019/blob/master/Minnewaska.jpeg' width = 500px>
   
